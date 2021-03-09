@@ -1,0 +1,10 @@
+{
+  "name": "gulp-frontend",
+  "version": "1.0.0",
+  "description": "Gulp frontend pack",
+  "scripts": {
+  },
+  "keywords": ["gulp", "js", "css", "sass", "scss", "html"],
+  "author": "nmdsteppe",
+  "license": "WTFPL"
+}
